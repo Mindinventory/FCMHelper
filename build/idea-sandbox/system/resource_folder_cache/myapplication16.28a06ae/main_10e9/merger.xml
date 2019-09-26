@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="res" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/apple/AndroidStudioProjects/MyApplication16/app/src/main/res"><file path="/Users/apple/AndroidStudioProjects/MyApplication16/app/src/main/res/layout/activity_main.xml" qualifiers="" timestamp="1569310850000"><item name="activity_main" type="layout">/Users/apple/AndroidStudioProjects/MyApplication16/app/src/main/res/layout/activity_main.xml</item></file><file path="/Users/apple/AndroidStudioProjects/MyApplication16/app/src/main/res/values/colors.xml" qualifiers="" timestamp="1569310850000"><color name="colorPrimary">#008577</color><color name="colorPrimaryDark">#00574B</color><color name="colorAccent">#D81B60</color></file><file path="/Users/apple/AndroidStudioProjects/MyApplication16/app/src/main/res/values/styles.xml" qualifiers="" timestamp="1569310850000"><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style></file><file path="/Users/apple/AndroidStudioProjects/MyApplication16/app/src/main/res/values/strings.xml" qualifiers="" timestamp="1569310849000"><string name="app_name">My Application</string></file></source></dataSet><mergedItems/></merger>

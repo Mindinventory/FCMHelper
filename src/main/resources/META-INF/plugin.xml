@@ -1,0 +1,38 @@
+<idea-plugin url="https://www.jetbrains.com/idea">
+    <id>MIFCMNotification.MIFCMNotification</id>
+    <name>MIFCMNotification</name>
+    <vendor email="harsh.mindinventory@gmail.com" url="https://www.mindinventory.com">Harsh_Mindinventory</vendor>
+
+    <description><![CDATA[
+    Plugin for the FCM notification configuration with Services and meta data.<br>
+
+    If user wants to integrate FCM notification then he/she can integrate with less efforts with this plugin.<br><br>
+
+    User will get the following features.<br>
+    - Firebase service. (With notification creation) <br>
+    - Service initialisation and meta data in AndroidManifest.xml <br>
+    - Instruction File for the help to integrate other functionality <br><br>
+
+    You just need to click the action of the "FCM Notification" from the New.<br><br>
+
+    Once you will triggered the event, you can set your data and select Ok,
+    Configuration, Messaging Service and meta data will add in your project.
+    ]]></description>
+
+    <idea-version since-build="172.0"/>
+    <depends>com.intellij.modules.lang</depends>
+    <depends>org.jetbrains.kotlin</depends>
+    <version>2019.1</version>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <action id="CleanPlugin.ID" class="action.SearchAction" text="FCM Notification"
+                description="Configure FCM Notification service and meta data.">
+            <add-to-group group-id="NewGroup" anchor="after" relative-to-action="NewDir"/>
+        </action>
+    </actions>
+
+</idea-plugin>

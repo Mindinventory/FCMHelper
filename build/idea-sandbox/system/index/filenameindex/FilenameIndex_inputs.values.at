@@ -1,0 +1,261 @@
+btn_icon_light_focused.xmlplatforminfo	zah.class	zai.class	zaj.class	zak.class	zal.class	zam.class	zan.class	zao.class	zap.class	zaq.class	zar.class	zas.class	zat.class	zau.class	zav.class	zaw.class	zax.class	zay.class	zaz.class
+zaaa.class2/common_google_signin_btn_text_light_focused.xml
+zaab.class	values-af
+zaac.class
+zaad.class
+zaae.class
+zaaf.class
+zaag.class
+zaah.class
+values.xml
+zaai.class	values-am
+zaaj.class
+zaak.class
+zaal.classpackage-info.java
+zaam.classLibraryVersion.java
+zaan.classUserAgentPublisher.java
+zaao.classLibraryVersionComponent.java
+zaap.class!DefaultUserAgentPublisher.java
+zaaq.class%"GlobalLibraryVersionRegistrar.java
+zaar.classFirebaseApp.java
+zaas.classFirebaseError.javaFirebaseOptions.java
+values.xml
+zaat.class	values-ar
+zaau.class
+zaav.class
+zaaw.class
+zaax.class FirebaseNetworkException.java
+zaay.class# DataCollectionDefaultChange.java
+zaaz.class
+zaba.class
+zabb.class
+values.xml
+zabc.class	values-as$!FirebaseAppLifecycleListener.java(%FirebaseTooManyRequestsException.javaMETA-INFMANIFEST.MF
+values.xmlclasses.jar	values-az
+zabd.classcom	google
+androidgmstasks	zza.class	zzb.class	zzc.class	zzd.class	zze.class	zzf.class	zzg.class	zzh.class	zzi.class	zzj.class	zzk.class	zzl.class	zzm.class	zzn.class	zzo.class	zzp.class	zzq.class	zzr.class
+zabe.class	zzs.class
+zabf.class
+values.xml
+zabg.class	values-be
+zabh.class	zzt.class	zzu.class
+values.xml	values-bg
+values.xml	values-bn
+values.xml	values-bs
+values.xml	values-ca
+values.xml	values-cs
+values.xml	zzv.class
+zabi.class	zzw.class
+zabj.class	zzx.class
+zabk.class	values-da
+Task.classTasks.class
+zabl.class
+zabm.class
+zabn.class
+zabo.classzzu$zza.class
+values.xml
+zabp.class	values-de
+zabq.class
+zabr.class
+zabs.class
+zabt.class
+zabu.class
+values.xml
+zabv.class	values-elTasks$zza.classTasks$zzb.classTasks$zzc.class
+zabw.class
+values.xml
+zabx.class	values-es
+zaby.class
+zabz.class
+zaca.class
+values.xml	values-et
+zacb.class
+zacc.class
+zacd.class
+values.xml
+zace.class	values-eu
+zacf.class
+zacg.class
+zach.class
+values.xml	values-fa
+zaci.class
+zacj.class
+zack.classContinuation.class
+zacl.class
+values.xml
+zacm.classTaskExecutors.class
+zacn.class	values-fi
+zaco.class
+zacp.class
+zacq.class
+zacr.classCancellationToken.class
+zacs.classOnFailureListener.class
+values.xml	values-fr
+values.xmlOnSuccessListener.classTaskExecutors$zza.classOnCanceledListener.classOnCompleteListener.classzaa$zaa.classzaj$zaa.classTaskUtil.classRemoteCall.classTaskApiCall.classListenerHolder.classStatusCallback.classIStatusCallback.classListenerHolders.classDataHolderResult.classGoogleApiManager.classBasePendingResult.classSuccessContinuation.class	values-glTaskCompletionSource.classApiExceptionMapper.class
+values.xml	values-gu
+values.xml	values-hi
+values.xmlBaseImplementation.class CancellationTokenSource.class OnTokenCanceledListener.class"RuntimeExecutionException.classDataHolderNotifier.classMETA-INFMANIFEST.MF!play-services-tasks.propertiesclasses.jarListenerHolder$zaa.classPendingResultFacade.classRegistrationMethods.classStatusPendingResult.classTaskApiCall$Builder.classGoogleApiManager$zaa.classGoogleApiManager$zab.classGoogleApiManager$zac.classIStatusCallback$Stub.classBasePendingResult$zaa.classRegisterListenerMethod.class ListenerHolder$Notifier.class!IStatusCallback$Stub$zaa.class	values-hr!SignInConnectionListener.class!UnregisterListenerMethod.class"ActivityLifecycleObserver.class"OptionalPendingResultImpl.class# ListenerHolder$ListenerKey.class$!RegistrationMethods$Builder.class
+values.xml(%BaseImplementation$ResultHolder.class	values-hu
+values.xml	values-hy
+values.xml	values-in)&BaseImplementation$ApiMethodImpl.class*'BasePendingResult$CallbackHandler.class	Api.class	zaa.class	zab.class	zac.classBatch.classApi$zaa.classApi$zab.classGoogleApi.classApi$Client.classBatchResult.classApi$AnyClient.classApi$ClientKey.classBatch$Builder.classBooleanResult.classPendingResult.classApi$ApiOptions.classPendingResults.classGoogleApiClient.classResultTransform.classApi$AnyClientKey.classApi$SimpleClient.classBatchResultToken.classGoogleApiActivity.classTransformedResult.classDataBufferResponse.classGoogleApi$Settings.classPendingResults$zaa.classPendingResults$zab.classPendingResults$zac.classApi$BaseClientBuilder.classAvailabilityException.classOptionalPendingResult.class Api$ApiOptions$Optional.class GoogleApiClient$Builder.class!Api$ApiOptions$NoOptions.class
+values.xml"Api$AbstractClientBuilder.class"Api$ApiOptions$HasOptions.class	values-is# GoogleApi$Settings$Builder.class%"PendingResult$StatusListener.class)&Api$ApiOptions$HasAccountOptions.class*'Api$ApiOptions$NotRequiredOptions.class,)GoogleApiClient$ConnectionCallbacks.class30GoogleApiClient$OnConnectionFailedListener.class52Api$ApiOptions$HasGoogleSignInAccountOptions.class
+values.xmldata	values-it	zaa.class	zab.class	zac.classFreezable.classDataBuffer.classDataHolder.class
+values.xml	values-iwEntityBuffer.classDataBufferRef.classDataHolder$zaa.classFreezableUtils.classDataBufferUtils.classBitmapTeleporter.classAbstractDataBuffer.classDataBufferIterator.classDataBufferObserver.class
+values.xmlDataHolder$Builder.class	values-jaDataBufferObserverSet.class!DataBufferSafeParcelable.class$!SingleRefDataBufferIterator.class&#DataBufferObserver$Observable.class	images
+values.xml	values-ka
+values.xml	values-kk	zaa.class	zab.class	zac.class	zad.class	zae.class
+Size.classWebImage.classImageManager.class
+values.xmlImageManager$zaa.class	values-kmImageManager$zab.classImageManager$zac.classImageManager$zad.classcom	google# ImageManager$ImageReceiver.class
+values.xml	values-knfirebase	analytics+(ImageManager$OnImageLoadedListener.class	server	connectorAnalyticsConnector.class30AnalyticsConnector$ConditionalUserProperty.class41AnalyticsConnector$AnalyticsConnectorHandle.class63AnalyticsConnector$AnalyticsConnectorListener.classresponseMETA-INF
+values.xmlMANIFEST.MF,)firebase-measurement-connector.propertiesclasses.jar	zaa.class	zab.class	zac.class	zad.class	zae.class	values-ko	zaf.class	zag.class	zah.class	zai.class
+values.xml	zaj.class	zak.class	zal.class	zam.class	zan.class	zao.class	zap.classFastParser.classFastParser$zaa.classFastJsonResponse.classSafeParcelResponse.classFastJsonResponse$Field.class"FastParser$ParseException.class'$FastSafeParcelableJsonResponse.class(%FastJsonResponse$FieldConverter.class	converter	zaa.class	zab.class	zac.class	zad.classStringToIntConverter.class!StringToIntConverter$zaa.class	zaa.classFavaDiagnosticsEntity.classinternal	values-ky
+service	zaa.class
+values.xml	zab.class	zac.class	zad.class	zae.class	values-lo	zaf.class	zag.class	zah.class	zai.class	zaj.class	zak.class	zal.class	zam.classCommon.class	zaa.class	zab.class	zac.class	zad.class	zae.class	zaf.class
+values.xml	zag.class	zah.class	zai.class	zaj.class	zak.class	zal.class	zam.class	zan.class	zao.class	values-ltGmsClient.classClientIdentity.classClientSettings.class
+values.xml	values-lv
+values.xml	values-mkDialogRedirect.classApiExceptionUtil.classSignInButtonImpl.classPendingResultUtil.classAuthAccountRequest.classSignInButtonConfig.classSignInButtonCreator.classSimpleClientAdapter.classISignInButtonCreator.classFallbackServiceBroker.classGmsClientEventManager.classPendingResultUtil$zaa.classResolveAccountRequest.classClientSettings$Builder.classResolveAccountResponse.class ConnectionErrorMessages.class LegacyInternalGmsClient.class!IResolveAccountCallbacks.class# GoogleApiAvailabilityCache.class&#IResolveAccountCallbacks$Stub.class*'PendingResultUtil$ResultConverter.class+(ClientSettings$OptionalApiSettings.class,)IResolveAccountCallbacks$Stub$Proxy.class2/GmsClientEventManager$GmsClientEventState.class	zaa.classSignInButton.classErrorDialogFragment.classGoogleApiAvailability.classGooglePlayServicesUtil.class SignInButton$ButtonSize.class!SignInButton$ColorScheme.class"GoogleApiAvailability$zaa.class# SupportErrorDialogFragment.class	signininternal	zaa.class	zab.class	zac.class	zad.class
+values.xml	values-ml
+values.xml	values-mn
+values.xml	values-mr	zae.class	zaf.class	zag.class	zah.class	zai.class	zaj.class	zak.classSignInClientImpl.class	zaa.class	zab.class	zac.class	zad.classSignInOptions.classSignInOptions$zaa.class
+dynamic	zaa.class	zab.class	zac.class	zad.class	zae.class	zaf.class	zag.class DeferredLifecycleHelper.class$!DeferredLifecycleHelper$zaa.classinternalbase	zaa.class	zab.class	zac.class	zad.class	zae.class	zaf.class	zag.class	zah.class	zai.class	zaj.class	zak.class	zal.class	zam.class	zan.class	zao.class	zap.class	zaq.classMETA-INFMANIFEST.MF play-services-base.propertiesclasses.jar
+values.xml	values-ms
+values.xml	values-my
+values.xml	values-nb
+values.xml	values-ne
+values.xml	values-nl
+values.xml	values-orcom	googlecom	google
+androidgms	common
+androidapigmsinternal	zza.class	zzb.class	zzc.class	zzd.classGoogleServices.classLifecycleActivity.classLifecycleCallback.classLifecycleFragment.classBackgroundDetector.classStatusExceptionMapper.class96BackgroundDetector$BackgroundStateChangeListener.class	zza.class	zzb.classScope.classResult.classStatus.classResponse.classReleasable.classApiException.classResultCallback.classResultCallbacks.classCommonStatusCodes.classResolvableApiException.class!ResolvingResultCallbacks.class$!UnsupportedApiCallException.classutilstats	zza.class	zzb.classWakeLock.classCodePackage.class	Hex.class	zza.class	zzb.class	zzc.class	zzd.class
+concurrent	zza.classHandlerExecutor.classNamedThreadFactory.classNumberedThreadFactory.classClock.classIOUtils.classStrings.classMapUtils.classClock$$CC.classDataUtils.classHttpUtils.classJsonUtils.classPredicate.classScopeUtil.classArrayUtils.classBiConsumer.classCrashUtils.classGmsVersion.classBase64Utils.classDynamiteApi.classMurmurHash3.classNumberUtils.classUidVerifier.classDefaultClock.classHexDumpUtils.classProcessUtils.classWorkSourceUtil.classCollectionUtils.classPlatformVersion.classRetainForClient.classDeviceProperties.classAndroidUtilsLight.classVisibleForTesting.classClientLibraryUtils.classSharedPreferencesUtils.classstats	zza.classStatsEvent.classStatsUtils.classWakeLockEvent.classWakeLockTracker.classLoggingConstants.classStatsEvent$Types.classConnectionTracker.class	config	zza.class	zzb.class	zzc.class	zzd.class	zze.classGservicesValue.classGservicesValue$zza.class	sqliteCursorWrapper.class
+loggingLogger.classinternal	constants!ListAppsActivityContract.class	zza.class	zzb.class	zzc.class	zzd.class	zze.class	zzf.class	zzg.class	zzh.class	zzi.class	zzj.class	zzk.class	zzl.class	zzm.class	zzn.class	zzo.class	zzp.class	zzq.class	zzr.class	zzs.class
+safeparcelSafeParcelable.classSafeParcelReader.classSafeParcelWriter.classSafeParcelable$Class.classSafeParcelable$Field.classSafeParcelable$Param.classAbstractSafeParcelable.class SafeParcelable$Reserved.class!SafeParcelable$Indicator.class!SafeParcelableSerializer.class# SafeParcelable$Constructor.class$!SafeParcelable$VersionField.class(%SafeParcelReader$ParseException.classAsserts.classObjects.classConstants.classGmsLogger.classViewUtils.classAccountType.classICancelToken.classBaseGmsClient.classBinderWrapper.classIGmsCallbacks.classPreconditions.classResourceUtils.classHideFirstParty.classImagesContract.classLibraryVersion.classShowFirstParty.classAccountAccessor.classIAccountAccessor.classBaseGmsClient$zza.classBaseGmsClient$zzb.classBaseGmsClient$zzc.classBaseGmsClient$zzd.classBaseGmsClient$zze.classBaseGmsClient$zzf.classBaseGmsClient$zzg.classGetServiceRequest.classICancelToken$Stub.classIGmsCallbacks$zza.classIGmsServiceBroker.classGmsClientSupervisor.classReflectedParcelable.classIAccountAccessor$Stub.classICancelToken$Stub$zza.classIGmsServiceBroker$Stub.classObjects$ToStringHelper.class DowngradeableSafeParcel.class GmsClientSupervisor$zza.class!ServiceSpecificExtraArgs.class"IAccountAccessor$Stub$zza.class"StringResourceValueReader.class# IGmsServiceBroker$Stub$zza.class'$BaseGmsClient$SignOutCallbacks.class.+BaseGmsClient$BaseConnectionCallbacks.class/,ServiceSpecificExtraArgs$CastExtraArgs.class/,ServiceSpecificExtraArgs$PlusExtraArgs.class0-ServiceSpecificExtraArgs$GamesExtraArgs.class2/BaseGmsClient$LegacyClientCallbackAdapter.class52BaseGmsClient$BaseOnConnectionFailedListener.class85BaseGmsClient$ConnectionProgressReportCallbacks.classwrappersWrappers.classInstantApps.classPackageManagerWrapper.class	providers	zza.class PooledExecutorsProvider.class63PooledExecutorsProvider$PooledExecutorFactory.class	zza.class	zzb.class	zzc.class	zzd.class	zze.class	zzf.class	zzg.class	zzh.class	zzi.class	zzj.class	zzk.class	zzl.class	zzm.class	zzn.class	zzo.class
+annotationKeepName.classKeepForSdk.classKeepForSdkWithMembers.class'$KeepForSdkWithFieldsAndMethods.classScopes.classFeature.classAccountPicker.classProGuardCanary.classConnectionResult.classFirstPartyScopes.class GoogleSignatureVerifier.class!UserRecoverableException.class"BlockingServiceConnection.class# GoogleApiAvailabilityLight.class$!GooglePlayServicesUtilLight.class.+GooglePlayServicesRepairableException.class0-GooglePlayServicesNotAvailableException.class
+actionsNoteIntents.classSearchIntents.classReserveIntents.classItemListIntents.class
+dynamicObjectWrapper.classRemoteCreator.classIObjectWrapper.classFragmentWrapper.classIFragmentWrapper.classLifecycleDelegate.classIObjectWrapper$Stub.classIFragmentWrapper$Stub.classSupportFragmentWrapper.class IObjectWrapper$Stub$zza.class"IFragmentWrapper$Stub$zza.class"OnDelegateCreatedListener.class-*RemoteCreator$RemoteCreatorException.classdynamite	zza.classWakeLock$zza.class	zzb.class	zzc.class	zzd.class	zze.class	zzf.class
+values.xml	zzg.class	zzh.class	zzi.class	values-pa	zzj.class	zzk.class	zzl.classDynamiteModule.classDynamiteModule$zza.classDynamiteModule$zzb.class%"DynamiteModule$VersionPolicy.class(%DynamiteModule$LoadingException.class)&DynamiteModule$VersionPolicy$zza.class)&DynamiteModule$VersionPolicy$zzb.class1.DynamiteModule$DynamiteLoaderClassLoader.classinternal	common	zza.class	zzb.class	zzc.class	zzd.class	zze.class	zzf.class	zzg.classsecurity	zza.classProviderInstaller.class2/ProviderInstaller$ProviderInstallListener.classfirebaseFirebaseException.class FirebaseExceptionMapper.class)&FirebaseApiNotAvailableException.classMETA-INFMANIFEST.MF$!play-services-basement.propertiesres	values
+values.xml	values-af
+values.xml	values-am
+values.xml	values-ar
+values.xml	values-as
+values.xml	values-az
+values.xml	values-be
+values.xml	values-bg
+values.xml	values-bn
+values.xml&#GCoreWakefulBroadcastReceiver.class
+values.xml	values-pl
+values.xml	values-ro	values-bs
+values.xml	values-ru
+values.xml	values-ca
+values.xml	values-cs
+values.xml	values-da
+values.xml	values-de
+values.xml	values-el
+values.xml	values-es
+values.xml	values-et
+values.xml	values-eu
+values.xmlMETA-INFMANIFEST.MF
+values.xml!play-services-stats.properties	values-si
+values.xml	values-sk
+values.xml	values-sl	values-fa
+values.xml	values-sq
+values.xml	values-sr
+values.xml	values-sv
+values.xml	values-sw
+values.xml	values-ta
+values.xml	values-te
+values.xml	values-th
+values.xml	values-tl
+values.xml	values-tr
+values.xml	values-uk
+values.xml	values-ur
+values.xml
+values.xml	values-uz
+values.xml	values-vi
+values.xml	values-zu
+values.xmlvalues-en-rGB
+values.xmlvalues-es-rUS
+values.xmlvalues-fr-rCA
+values.xmlvalues-pt-rBR
+values.xmlvalues-pt-rPT
+values.xmlvalues-zh-rCN
+values.xmlvalues-zh-rHK
+values.xmlvalues-zh-rTW
+values.xmldrawable-hdpi-v4 common_full_open_on_phone.png googleg_disabled_color_18.png googleg_standard_color_18.png=:common_google_signin_btn_icon_dark_normal_background.9.png=:common_google_signin_btn_text_dark_normal_background.9.png>;common_google_signin_btn_icon_light_normal_background.9.png>;common_google_signin_btn_text_light_normal_background.9.pngdrawable-mdpi-v4 googleg_disabled_color_18.png googleg_standard_color_18.png=:common_google_signin_btn_icon_dark_normal_background.9.png=:common_google_signin_btn_text_dark_normal_background.9.png>;common_google_signin_btn_icon_light_normal_background.9.png>;common_google_signin_btn_text_light_normal_background.9.pngvalues-b+sr+Latn
+values.xmldrawable-xhdpi-v4 common_full_open_on_phone.png googleg_disabled_color_18.png googleg_standard_color_18.png=:common_google_signin_btn_icon_dark_normal_background.9.png=:common_google_signin_btn_text_dark_normal_background.9.png>;common_google_signin_btn_icon_light_normal_background.9.png>;common_google_signin_btn_text_light_normal_background.9.pngdrawable-xxhdpi-v4 googleg_disabled_color_18.png googleg_standard_color_18.png=:common_google_signin_btn_icon_dark_normal_background.9.png=:common_google_signin_btn_text_dark_normal_background.9.png>;common_google_signin_btn_icon_light_normal_background.9.png>;common_google_signin_btn_text_light_normal_background.9.png	values-fi
+values.xml	values-fr
+values.xml	values-gl
+values.xml	values-gu
+values.xml	values-hi
+values.xml	values-hr
+values.xml	values-hu
+values.xml	values-hy
+values.xml	values-in
+values.xml	values-is
+values.xml	values-it
+values.xml	values-iw
+values.xml	values-ja
+values.xml	values-ka
+values.xml	values-kk
+values.xml	values-km
+values.xml	values-kn
+values.xml	values-ko
+values.xml	values-ky
+values.xml	values-lo
+values.xml	values-lt
+values.xml	values-lv
+values.xml	values-mk
+values.xml	values-ml
+values.xml	values-mn
+values.xml	values-mr
+values.xml	values-ms
+values.xml	values-my
+values.xml	values-nb
+values.xml	values-ne
+values.xml	values-nl
+values.xml	values-or
+values.xml	values-pa
+values.xml	values-pl
+values.xml	values-ro
+values.xml	values-ru
+values.xml	values-si
+values.xml	values-sk
+values.xml	values-sl
+values.xml	values-sq
+values.xml	values-sr
+values.xml	values-sv
+values.xml	values-sw
+values.xml	values-ta
+values.xml	values-te
+values.xml	values-th
+values.xml	values-tl
+values.xml	values-tr
+values.xml	values-uk
+values.xml	values-ur
+values.xml	values-uz
+values.xml	values-vi
+values.xml	values-zu
+values.xmlvalues-en-rGB
+values.xmlvalues-es-rUS
+values.xmlvalues-fr-rCA
+values.xmlvalues-pt-rBR
+values.xmlvalues-pt-rPT
+values.xmlvalues-zh-rCN
+values.xmlvalues-zh-rHK
+values.xmlvalues-zh-rTW
+values.xmlvalues-b+sr+Latn
+values.xmlDAGradle__com_google_android_gms_play_services_tasks_17_0_0_aar.xmlDAGradle__com_google_android_gms_play_services_stats_17_0_0_aar.xml=:Gradle__com_google_firebase_firebase_common_19_0_0_aar.xmlEBGradle__com_google_auto_value_auto_value_annotations_1_6_5_jar.xmlB?Gradle__com_google_firebase_firebase_iid_interop_17_0_0_aar.xml:7Gradle__com_google_firebase_firebase_iid_20_0_0_aar.xml@=Gradle__com_google_firebase_firebase_messaging_20_0_0_aar.xmlLIGradle__com_google_firebase_firebase_measurement_connector_18_0_0_aar.xmlGDGradle__com_google_android_gms_play_services_basement_17_0_0_aar.xmlC@Gradle__com_google_android_gms_play_services_base_17_0_0_aar.xmlxhtml-mobile
+schemasproperties.dtdstandardSchemastestng-1.0.dtd	resourcesdoc-style.xhtmlxslt-schema.xsddocumentation.xmldocumentation.xslmml3xhtml-mobile10.dtdxhtml-mobile12.dtdxhtmlmp12-form-1.modxhtml-mobile10-flat.dtdxhtml-mobile12-form.modxhtml-mobile10-model-1.modMakefile	patch-vnumathml3.rncxhtml-mobile12-model-1.mod
+schemasmathml3-inc.rncmathml3-common.rncmaven-4.0.0.xsdprofiles-1.0.0.xsdmathml3-content.rncmathml3-presentation.rncmathml3-strict-content.rncsvg11settings-1.0.0.xsd	resources
+patchesmeta-ext.rncembed-ext.rnc	svg11.rnccommon-ext.rncinkscape.rnc0004_ping.patchsvg-clip.rnc0001_html5.patchsvg-font.rnc0002_xhtml5.patchsvg-mask.rncsvg-text.rnc0007_legacy.patchpatch_build.patchcore-scripting-ext.rnc0005_html5_namespace.patch0006_xhtml5_namespace.patchsvg-view.rncsvg-image.rncsvg-qname.rncsvg-shape.rncsvg-style.rncsvg11-inc.rncsvg-cursor.rncsvg-filter.rncsvg-marker.rncrelaxng.rnghtml5-schemasvg-script.rncrdf
+rdf.rncits2svg11-tiny.rncits20-html5.rncits20-html5-types.rnchtml5svg-pattern.rncsvg-profile.rncsvg11-basic.rncaria.rncdata.rncmeta.rncsvg-gradient.rncsvg-animation.rncrdfa.rncruby.rnc	block.rnc	embed.rncsvg-datatypes.rnc	html5.rncsvg-hyperlink.rnc	media.rncsvg-structure.rnc
+common.rncinkscape-draft.rncsvg-basic-clip.rncsvg-basic-font.rnc
+legacy.rnc
+phrase.rncsvg-basic-text.rnc
+tables.rncsvg11-tiny-inc.rnc
+xhtml5.rncsvg-conditional.rncmeta-ext.rncsvg-core-attrib.rncrevision.rncsvg11-basic-inc.rncembed-ext.rnchtml5core.rnchtml5full.rncsvg-basic-filter.rncsvg-paint-attrib.rncmicrodata.rncsvg-xlink-attrib.rncsectional.rncsvg-extensibility.rncweb-forms.rncsvg-opacity-attrib.rnccommon-ext.rncsvg-basic-structure.rncstructural.rncweb-forms2.rncsvg-graphics-attrib.rncxhtml5core.rncsvg-viewport-attrib.rncits20-html5.rncsvg-container-attrib.rncapplications.rnccore-scripting.rncsvg-docevents-attrib.rncform-datatypes.rnchtml5full-rdfa.rncsvg-animevents-attrib.rncweb-components.rncsvg-graphevents-attrib.rnchtml5exclusions.rncsvg-extresources-attrib.rncxhtml5full-html.rnc svg-basic-graphics-attrib.rncstandardSchemasxhtml5full-xhtml.rncits20-html5-types.rnccore-scripting-ext.rnchtml5
+xhtml5.xsd
+xml.xsd	xhtml.dtd	xlink.dtd
+xhtml1.dtdcatalog.xsdhtml5full-rdfalite.rncxinclude.xsdxslt-1_0.xsdxslt-2_0.xsdXMLSchema-1_1web-forms-scripting.rncweb-forms2-scripting.rncxhtml5full-xhtml-rdfa.rnchtml5full-no-microdata.rncxhtml5full-html-rdfalite.rncXMLSchema.xsd xhtml5full-xhtml-rdfalite.rnc!xhtml5core-plus-web-forms2.rnc$!XMLSchema-hasFacetAndProperty.xsd# xhtml5full-html-no-microdata.rncXMLSchema.dtd$!xhtml5full-xhtml-no-microdata.rncXMLSchema.xsddatatypes.dtdxhtml-lat1.ent
+LICENSExhtml-symbol.entxhtml-special.ent	html5.rncxhtml1-strict.dtdxhtml1-strict.xsdxhtml1-frameset.dtd
+xhtml5.rncxhtml1-frameset.xsdhtml5-all.rncplugin-repository.dtdhtml5-its.rncXMLSchema-instance.xsdhtml5chars.entxhtml1-transitional.dtdxhtml1-transitional.xsdxhtml5-all.rncXMLSchema-versioning.xsd
+xhtml11html5-rdfalite.rncxhtml11.dtdxhtml5-rdfalite.rncxhtml-lat1.enthtml5-svg-mathml.rncxhtml-base-1.modxhtml5-svg-mathml.rncxhtml-edit-1.modhtml5-no-microdata.rnchtml5-rdfalite-w3c.rncxhtml5-no-microdata.rncxhtml-form-1.modxhtml-link-1.modxhtml5-rdfalite-w3c.rncxhtml-list-1.modsvg-xhtml5-rdf-mathml.rncxhtml-meta-1.mod!xhtml1-ruby-rdf-svg-mathml.rncxhtml-pres-1.modhtml5charref.rbcloud.propertiesxhtml-ruby-1.modupdate_html5_schema.shxhtml-symbol.entxhtml-text-1.modxhtml-image-1.modxhtml-param-1.modxhtml-qname-1.modxhtml-special.entxhtml-style-1.modxhtml-table-1.modxhtml-events-1.modxhtml-object-1.modxhtml-script-1.modxhtml-struct-1.modxhtml-target-1.modxhtml-attribs-1.modxhtml-blkpres-1.modxhtml-charent-1.modxhtml-csismap-1.modxhtml-inlpres-1.modxhtml-ssismap-1.modxhtml11-model-1.modxhtml-blkphras-1.modxhtml-inlphras-1.modxhtml-inlstyle-1.modxhtml-blkstruct-1.modxhtml-datatypes-1.modxhtml-framework-1.modxhtml-hypertext-1.modxhtml-inlstruct-1.modxhtml-basic-form-1.modxhtml-basic-table-1.modbuild	generated	sourcebuildConfigintermediatesmyapplication16.28a06ae.xmlFCM_Instruction.txt MyFirebaseMessagingService.ktB?Gradle__com_google_firebase_firebase_iid_interop_17_0_0_aar.xml:7Gradle__com_google_firebase_firebase_iid_20_0_0_aar.xml@=Gradle__com_google_firebase_firebase_messaging_20_0_0_aar.xmlLIGradle__com_google_firebase_firebase_measurement_connector_18_0_0_aar.xmlGDGradle__com_google_android_gms_play_services_basement_17_0_0_aar.xmlC@Gradle__com_google_android_gms_play_services_base_17_0_0_aar.xmlDAGradle__com_google_android_gms_play_services_tasks_17_0_0_aar.xmlDAGradle__com_google_android_gms_play_services_stats_17_0_0_aar.xml=:Gradle__com_google_firebase_firebase_common_19_0_0_aar.xmlEBGradle__com_google_auto_value_auto_value_annotations_1_6_5_jar.xml

@@ -1,0 +1,8 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="800" y="380" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1600.900" x="422" y="259" />
+    <location key="SettingsEditor.0.0.1600.900" x="294" y="76" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1600.900" x="538" y="181" />
+  </component>
+</application>

@@ -1,0 +1,5 @@
+Actions:
+Action when freeze detected: (no action)
+Action duration when freeze detected: 0ms
+Action when freeze ended: (no action)
+Action duration when freeze ended: 0ms

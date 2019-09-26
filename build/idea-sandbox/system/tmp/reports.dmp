@@ -1,0 +1,39 @@
+{
+  "formatVersion": 2,
+  "type": "PerformanceThreadDump",
+  "studioVersion": "3.5.0.21",
+  "kotlinVersion": "1.3.41-release-Studio3.5-1",
+  "uptime": 15046,
+  "reportTime": 1569310595303,
+  "sessionId": "c25c1e3c-02a8-454f-afa9-5681fe78b54a",
+  "threadDumpPath": "/Users/apple/IdeaProjects/MIFCMNotification/build/idea-sandbox/system/log/threadDumps-freeze-20190924-130629-AI-191.8026.42.35.5791312/threadDump-20190924-130635.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 2,
+  "type": "Freeze",
+  "studioVersion": "3.5.0.21",
+  "kotlinVersion": "1.3.41-release-Studio3.5-1",
+  "uptime": 20111,
+  "reportTime": 1569310600367,
+  "sessionId": "c25c1e3c-02a8-454f-afa9-5681fe78b54a",
+  "threadDumpPath": "/Users/apple/IdeaProjects/MIFCMNotification/build/idea-sandbox/system/log/threadDumps-freeze-20190924-130629-AI-191.8026.42.35.5791312-11sec/diagnosticReport-hotPathStackTrace.txt",
+  "profileDiagnosticsPath": "/Users/apple/IdeaProjects/MIFCMNotification/build/idea-sandbox/system/log/threadDumps-freeze-20190924-130629-AI-191.8026.42.35.5791312-11sec/diagnosticReport-profileDiagnostics.txt",
+  "actionsDiagnosticsPath": "/Users/apple/IdeaProjects/MIFCMNotification/build/idea-sandbox/system/log/threadDumps-freeze-20190924-130629-AI-191.8026.42.35.5791312-11sec/diagnosticReport-actionsDiagnostics.txt",
+  "memoryUseDiagnosticsPath": "/Users/apple/IdeaProjects/MIFCMNotification/build/idea-sandbox/system/log/threadDumps-freeze-20190924-130629-AI-191.8026.42.35.5791312-11sec/diagnosticReport-memoryUseDiagnostics.txt",
+  "timedOut": "false",
+  "totalDuration": 10040
+}
+{
+  "formatVersion": 2,
+  "type": "Histogram",
+  "studioVersion": "3.5.0.21",
+  "kotlinVersion": "1.3.41-release-Studio3.5-1",
+  "uptime": 391382,
+  "reportTime": 1569310971648,
+  "sessionId": "c25c1e3c-02a8-454f-afa9-5681fe78b54a",
+  "threadDumpPath": "/Users/apple/IdeaProjects/MIFCMNotification/build/idea-sandbox/system/log/threadDumps-histogram-20190924-131249/threadDump.txt",
+  "histogramPath": "/Users/apple/IdeaProjects/MIFCMNotification/build/idea-sandbox/system/log/threadDumps-histogram-20190924-131249/histogram.txt",
+  "reason": "FrequentLowMemoryNotification",
+  "description": "LowMemoryWatcher"
+}

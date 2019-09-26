@@ -1,0 +1,141 @@
+
+We have added the dependency in build.gradle file and Service for the messaging.
+But we need to add following things in particular files.
+
+============================ IN AndroidManifest.xml  ============================
+
+<service
+    android:name="Your Service Name"
+    android:exported="false">
+    <intent-filter>
+        <action android:name="com.google.firebase.MESSAGING_EVENT" />
+    </intent-filter>
+</service>
+
+============================ IN AndroidManifest.xml  ============================
+
+
+
+
+
+============================ IN AndroidManifest.xml (Set notification icon color) (Optional) ============================
+
+Within the application component, metadata elements to set a default notification icon and color.
+Android uses these values whenever incoming messages do not explicitly set icon or color.
+
+<!-- Set custom default icon. This is used when no icon is set for incoming notification messages.
+     See README(https://goo.gl/l4GJaQ) for more. -->
+<meta-data
+    android:name="com.google.firebase.messaging.default_notification_icon"
+    android:resource="@drawable/ic_stat_ic_notification" />
+
+<!-- Set color used with incoming notification messages. This is used when no color is set for the incoming
+     notification message. See README(https://goo.gl/6BKBk7) for more. -->
+<meta-data
+    android:name="com.google.firebase.messaging.default_notification_color"
+    android:resource="@color/colorAccent" />
+
+============================ IN AndroidManifest.xml (Set notification icon color) (Optional) ============================
+
+
+
+
+
+============================ IN AndroidManifest.xml (Notification Channel) (Optional) ============================
+
+From Android 8.0 (API level 26) and higher, notification channels are supported and recommended.
+FCM provides a default notification channel with basic settings.
+If you prefer to create and use your own default channel,
+  set default_notification_channel_id to the ID of your notification channel object as shown;
+FCM will use this value whenever incoming messages do not explicitly set a notification channel.
+
+<meta-data
+    android:name="com.google.firebase.messaging.default_notification_channel_id"
+    android:value="@string/default_notification_channel_id" />
+
+============================ IN AndroidManifest.xml (Notification Channel) (Optional) ============================
+
+
+
+
+
+============================ Retrieve the current registration token ============================
+
+## When you need to retrieve the current token, call following.
+
+        FirebaseInstanceId.getInstance().getInstanceId():
+
+
+## You can set CompleteListener inside your MainActivity. Please follow below one.
+
+FirebaseInstanceId.getInstance().instanceId
+        .addOnCompleteListener(OnCompleteListener { task ->
+            if (!task.isSuccessful) {
+                Log.w(TAG, "getInstanceId failed", task.exception)
+                return@OnCompleteListener
+            }
+
+            // Get new Instance ID token
+            val token = task.result?.token
+
+            // Log and toast
+            val msg = getString(R.string.msg_token_fmt, token)
+            Log.d(TAG, msg)
+            Toast.makeText(baseContext, msg, Toast.LENGTH_SHORT).show()
+        })
+
+
+============================ Retrieve the current registration token ============================
+
+
+
+
+
+============================ Monitor token generation ============================
+
+## The onNewToken callback fires whenever a new token is generated.
+
+/**
+ * Called if InstanceID token is updated. This may occur if the security of
+ * the previous token had been compromised. Note that this is called when the InstanceID token
+ * is initially generated so this is where you would retrieve the token.
+ */
+override fun onNewToken(token: String) {
+    Log.d(TAG, "Refreshed token: $token")
+
+    // If you want to send messages to this application instance or
+    // manage this apps subscriptions on the server side, send the
+    // Instance ID token to your app server.
+    sendRegistrationToServer(token)
+}
+
+============================ Monitor token generation ============================
+
+
+
+
+
+============================ Prevent auto initialization ============================
+
+Firebase generates an Instance ID, which FCM uses to generate a registration token and Analytics uses for data collection.
+When an Instance ID is generated, the library will upload the identifier and configuration data to Firebase.
+If you prefer to prevent Instance ID autogeneration,
+disable auto initialization for FCM and Analytics (you must disable both)
+by adding these metadata values to your AndroidManifest.xml
+
+<meta-data
+    android:name="firebase_messaging_auto_init_enabled"
+    android:value="false" />
+
+<meta-data
+    android:name="firebase_analytics_collection_enabled"
+    android:value="false" />
+
+
+## To re-enable FCM, make a runtime call
+
+        FirebaseMessaging.getInstance().isAutoInitEnabled = true
+
+## This value persists across app restarts once set.
+
+============================ Prevent auto initialization ============================
