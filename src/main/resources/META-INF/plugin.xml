@@ -1,7 +1,7 @@
 <idea-plugin url="https://www.jetbrains.com/idea">
     <id>MIFCMNotification.MIFCMNotification</id>
     <name>MIFCMNotification</name>
-    <vendor email="harsh.mindinventory@gmail.com" url="https://www.mindinventory.com">Harsh_Mindinventory</vendor>
+    <vendor email="harsh.mindinventory@gmail.com" url="https://github.com/Mindinventory">Harsh_Mindinventory</vendor>
 
     <description><![CDATA[
     Plugin for the FCM notification configuration with Services and meta data.<br>
@@ -19,7 +19,7 @@
     Configuration, Messaging Service and meta data will add in your project.
     ]]></description>
 
-    <idea-version since-build="172.0"/>
+    <idea-version since-build="182.0" until-build="191.*"/>
     <depends>com.intellij.modules.lang</depends>
     <depends>org.jetbrains.kotlin</depends>
     <version>2019.1</version>
