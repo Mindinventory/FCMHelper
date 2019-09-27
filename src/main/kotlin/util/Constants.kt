@@ -27,6 +27,7 @@ object Constants {
     const val COLOR_PRIMARY = "colorPrimary"
     const val COLOR_PRIMARY_DARK = "colorPrimaryDark"
     const val FCM_INSTRUCTION = "FCM_Instruction"
+    const val FCM_DIRECTORY = "fcm"
 
     const val COLOR_PRIMARY_FROM_XML = "R.color.colorPrimary"
     const val COLOR_PRIMARY_FROM_ANDROID = "android.R.color.holo_blue_dark"

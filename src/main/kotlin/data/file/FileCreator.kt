@@ -5,6 +5,7 @@ import model.FileType
 import util.Constants
 import util.Constants.COLOR_PRIMARY_FROM_ANDROID
 import util.Constants.COLOR_PRIMARY_FROM_XML
+import util.Constants.FCM_DIRECTORY
 import util.Methods.getFileContent
 import util.Methods.getInstructionFileContent
 
@@ -51,10 +52,11 @@ class FileCreatorImpl(private val sourceRootRepository: SourceRootRepository) : 
                 ),
                 FileType.KOTLIN
             )
-            codeSubdirectory.addFile(file)
+            val fcmDirectory = codeSubdirectory.findSubdirectory(FCM_DIRECTORY) ?: codeSubdirectory.createSubdirectory(FCM_DIRECTORY)
+            fcmDirectory.addFile(file)
             if (isNeedReadMeForInstructions) {
                 val file1 = File(Constants.FCM_INSTRUCTION, getInstructionFileContent(), FileType.TEXT)
-                codeSubdirectory.addFile(file1)
+                fcmDirectory.addFile(file1)
             }
         }
     }

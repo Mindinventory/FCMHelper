@@ -19,10 +19,20 @@
     Configuration, Messaging Service and meta data will add in your project.
     ]]></description>
 
+    <change-notes><![CDATA[
+    <b>v0.2</b><br/>
+    - Find the action with CTRL/CMD + ALT + M<br/>
+    - Updated the service and instruction file in fcm directory.<br/>
+    - Managed the dependency for the same module.<br/><br/>
+    <b>v0.1</b><br/>
+    - Updated the service and instruction file.<br/>
+    ]]>
+    </change-notes>
+
     <idea-version since-build="182.0" until-build="191.*"/>
     <depends>com.intellij.modules.lang</depends>
     <depends>org.jetbrains.kotlin</depends>
-    <version>2019.1</version>
+    <version>0.2</version>
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
@@ -30,8 +40,10 @@
 
     <actions>
         <action id="CleanPlugin.ID" class="action.SearchAction" text="FCM Notification"
-                description="Configure FCM Notification service and meta data.">
+                description="Configure FCM Notification service and meta data."
+                use-shortcut-of="CleanPlugin.ID" keymap="$default">
             <add-to-group group-id="NewGroup" anchor="after" relative-to-action="NewDir"/>
+            <keyboard-shortcut keymap="$default" first-keystroke="control alt m"/>
         </action>
     </actions>
 

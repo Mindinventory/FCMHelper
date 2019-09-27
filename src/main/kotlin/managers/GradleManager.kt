@@ -9,7 +9,6 @@ import com.intellij.openapi.editor.Document
 import com.intellij.openapi.fileEditor.FileDocumentManager
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.ui.Messages
-import com.intellij.openapi.ui.SelectFromListDialog
 import com.intellij.openapi.vfs.LocalFileSystem
 import com.intellij.openapi.vfs.VirtualFile
 import org.apache.commons.lang.StringUtils
@@ -30,21 +29,12 @@ class GradleManager(private val project: Project) {
     @Throws(FileNotFoundException::class)
     fun initBuildGradle(): Boolean {
         checkFilesExist()
-
-        val toStringAspect = SelectFromListDialog.ToStringAspect { it.toString() }
         val gradleVirtualFile: VirtualFile?
         if (modules.size > 1) {
-            val dialog = SelectFromListDialog(
-                project,
-                modules,
-                toStringAspect,
-                "Select Gradle Module",
-                ListSelectionModel.SINGLE_SELECTION
-            )
-            val isOk = dialog.showAndGet()
-            if (isOk) {
+            val isHaveAppModule: String? = modules.find { it == Constants.DEFAULT_MODULE_NAME } as String
+            if (isHaveAppModule != null && isHaveAppModule != "") {
                 gradleVirtualFile = projectBaseDir!!
-                    .findChild(dialog.selection[0].toString())!!
+                    .findChild(isHaveAppModule)!!
                     .findChild("build.gradle")
             } else {
                 return false
@@ -57,11 +47,9 @@ class GradleManager(private val project: Project) {
             gradleVirtualFile = projectBaseDir!!
                 .findChild("build.gradle")
         }
-
         if (gradleVirtualFile != null) {
             buildGradle = FileDocumentManager.getInstance().getDocument(gradleVirtualFile)
         }
-
         return true
     }
 

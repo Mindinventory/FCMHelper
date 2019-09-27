@@ -5,6 +5,7 @@ import com.intellij.openapi.fileEditor.FileDocumentManager
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.vfs.LocalFileSystem
 import com.intellij.openapi.vfs.VirtualFile
+import util.Constants.FCM_DIRECTORY
 
 object Methods {
 
@@ -36,7 +37,7 @@ object Methods {
         serviceNameText: String
     ): String {
         return "\n        <service\n" +
-                "            android:name=\"$packageName.$serviceNameText\"\n" +
+                "            android:name=\"$packageName.$FCM_DIRECTORY.$serviceNameText\"\n" +
                 "            android:exported=\"false\">\n" +
                 "            <intent-filter>\n" +
                 "                <action android:name=\"com.google.firebase.MESSAGING_EVENT\" />\n" +
@@ -60,7 +61,7 @@ object Methods {
         contentTextText: String,
         color: String
     ): String {
-        return "package $packageName\n\n" +
+        return "package $packageName.$FCM_DIRECTORY\n\n" +
                 "import android.app.ActivityManager\n" +
                 "import android.app.ActivityManager.RunningAppProcessInfo\n" +
                 "import android.app.NotificationChannel\n" +
