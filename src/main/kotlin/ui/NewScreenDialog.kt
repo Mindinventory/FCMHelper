@@ -49,6 +49,7 @@ class NewScreenDialog(var event: AnActionEvent) : DialogWrapper(true), NewScreen
                     panelForFCM.pendingIntentTextField.text,
                     panelForFCM.contentTitleTextField.text,
                     panelForFCM.contentTextTextField.text,
+                    panelForFCM.dependencyVersionTextField.text,
                     panelForFCM.isNeedReadMeForInstructions.isSelected,
                     moduleName
             )

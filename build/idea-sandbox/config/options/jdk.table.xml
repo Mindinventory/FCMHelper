@@ -48,6 +48,7 @@
     <jdk version="2">
       <name value="Android API 14 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
@@ -78,6 +79,7 @@
     <jdk version="2">
       <name value="Android API 15 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
@@ -108,6 +110,7 @@
     <jdk version="2">
       <name value="Android API 16 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
@@ -137,6 +140,7 @@
     <jdk version="2">
       <name value="Android API 17 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
@@ -166,6 +170,7 @@
     <jdk version="2">
       <name value="Android API 18 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
@@ -195,6 +200,7 @@
     <jdk version="2">
       <name value="Android API 19 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
@@ -224,6 +230,7 @@
     <jdk version="2">
       <name value="Android API 20 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
@@ -253,6 +260,7 @@
     <jdk version="2">
       <name value="Android API 21 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
@@ -282,6 +290,7 @@
     <jdk version="2">
       <name value="Android API 22 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
@@ -311,6 +320,7 @@
     <jdk version="2">
       <name value="Android API 23 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
@@ -340,6 +350,7 @@
     <jdk version="2">
       <name value="Android API 24 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
@@ -369,6 +380,7 @@
     <jdk version="2">
       <name value="Android API 25 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
@@ -398,6 +410,7 @@
     <jdk version="2">
       <name value="Android API 26 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
@@ -427,6 +440,7 @@
     <jdk version="2">
       <name value="Android API 27 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
@@ -456,6 +470,7 @@
     <jdk version="2">
       <name value="Android API 28 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
@@ -485,6 +500,7 @@
     <jdk version="2">
       <name value="Android API 28, Q preview Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
@@ -513,6 +529,1050 @@
       <name value="Android API 29 Platform" />
       <type value="Android SDK" />
       <version value="java version &quot;1.8.0_202&quot;" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (2)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (3)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (4)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (5)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (6)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (7)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (8)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (9)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (10)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (11)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (12)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (13)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (14)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (15)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (16)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (17)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (18)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (19)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (20)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (21)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (22)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (23)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (24)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (25)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (26)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (27)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (28)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (29)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (30)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (31)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (32)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (33)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (34)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (35)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (36)" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform (37)" />
+      <type value="Android SDK" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>

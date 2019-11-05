@@ -13,6 +13,7 @@ import com.intellij.openapi.vfs.LocalFileSystem
 import com.intellij.openapi.vfs.VirtualFile
 import org.apache.commons.lang.StringUtils
 import util.Constants
+import util.Constants.FCM_NOTIFICATION
 
 import javax.swing.*
 import java.io.FileNotFoundException
@@ -91,7 +92,7 @@ class GradleManager(private val project: Project) {
             if (line.contains(Constants.DEPENDENCIES)) {
                 if (line.contains("{")) {
                     sb
-                        .append("\t${Constants.IMPLEMENTATION} '")
+                        .append("\t$FCM_NOTIFICATION\n\t${Constants.IMPLEMENTATION} '")
                         .append(repository)
                         .append("'\n")
                 }

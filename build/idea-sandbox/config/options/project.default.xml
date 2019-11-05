@@ -3,6 +3,8 @@
     <defaultProject>
       <component name="PropertiesComponent">
         <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
       </component>
     </defaultProject>
   </component>

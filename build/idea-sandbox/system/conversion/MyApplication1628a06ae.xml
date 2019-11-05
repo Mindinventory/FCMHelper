@@ -12,8 +12,10 @@
   <project-files>
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/codeStyles/Project.xml" timestamp="1569310910000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/codeStyles/codeStyleConfig.xml" timestamp="1569310910000" />
-    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/gradle.xml" timestamp="1569310896000" />
+    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/gradle.xml" timestamp="1569500814000" />
+    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_0_jar.xml" timestamp="1569500833000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_2_jar.xml" timestamp="1569310910000" />
+    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_0_aar.xml" timestamp="1569500833000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_2_aar.xml" timestamp="1569310910000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_arch_core_core_common_2_0_0_jar.xml" timestamp="1569310910000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" timestamp="1569310910000" />
@@ -22,6 +24,7 @@
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" timestamp="1569310910000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" timestamp="1569310910000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" timestamp="1569310910000" />
+    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_core_core_1_0_0_aar.xml" timestamp="1569500834000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_core_core_1_0_2_aar.xml" timestamp="1569310910000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_core_core_ktx_1_0_2_aar.xml" timestamp="1569310910000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" timestamp="1569311449000" />
@@ -42,10 +45,15 @@
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" timestamp="1569310910000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" timestamp="1569310911000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" timestamp="1569310911000" />
+    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_0_alpha3_aar.xml" timestamp="1569500834000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_1_aar.xml" timestamp="1569311449000" />
+    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_0_alpha3_aar.xml" timestamp="1569500834000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_1_aar.xml" timestamp="1569311449000" />
+    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_test_monitor_1_1_0_alpha3_aar.xml" timestamp="1569500834000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_test_monitor_1_1_1_aar.xml" timestamp="1569310911000" />
+    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_test_runner_1_1_0_alpha3_aar.xml" timestamp="1569500834000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_test_runner_1_1_1_aar.xml" timestamp="1569310911000" />
+    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_0_aar.xml" timestamp="1569500834000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_1_aar.xml" timestamp="1569311449000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" timestamp="1569311449000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" timestamp="1569310911000" />
@@ -63,11 +71,12 @@
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_41_jar.xml" timestamp="1569310911000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_41_jar.xml" timestamp="1569310911000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_41_jar.xml" timestamp="1569310911000" />
-    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/misc.xml" timestamp="1569314279000" />
-    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/modules.xml" timestamp="1569310910000" />
-    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/workspace.xml" timestamp="1569316146000" />
+    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/misc.xml" timestamp="1570182711000" />
+    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/modules.xml" timestamp="1569500833000" />
+    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/.idea/workspace.xml" timestamp="1570442875000" />
     <file path="/Users/apple/AndroidStudioProjects/MyApplication16/My Application.iml" timestamp="1569311018000" />
-    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/app/app.iml" timestamp="1569316146000" />
+    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/app/app.iml" timestamp="1569919862000" />
+    <file path="/Users/apple/AndroidStudioProjects/MyApplication16/mylibrary/mylibrary.iml" timestamp="1569501044000" />
   </project-files>
 </conversion>
 

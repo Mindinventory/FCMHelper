@@ -2,26 +2,37 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/AndroidStudioProjects/MyApplication16" />
+        <option value="$USER_HOME$/AndroidStudioProjects/MyApplication" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/AndroidStudioProjects/MyApplication16" />
+        <option value="$USER_HOME$/AndroidStudioProjects/MyApplication" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/AndroidStudioProjects/MyApplication16" />
+    <option name="lastPath" value="$USER_HOME$/AndroidStudioProjects/MyApplication" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-191.8026.42.35.5791312" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572616631115" />
+              <option name="buildTimestamp" value="1565308977372" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication16">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IC-191.7479.19" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1569476286436" />
-              <option name="buildTimestamp" value="1559024636086" />
+              <option name="projectOpenTimestamp" value="1570443573201" />
+              <option name="buildTimestamp" value="1559024602166" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

@@ -1,8 +1,15 @@
 <application>
   <component name="DimensionService">
-    <location key="WELCOME_SCREEN.0.0.1600.900" x="800" y="380" />
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="799" y="380" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1600.900" x="422" y="259" />
     <location key="SettingsEditor.0.0.1600.900" x="294" y="76" />
     <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1600.900" x="538" y="181" />
+    <location key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog.0.0.1600.900" x="574" y="104" />
+    <location key="new project wizard.0.0.1600.900" x="368" y="50" />
+    <location key="IDE.errors.dialog.0.0.1600.900" x="361" y="127" />
+    <location key="FileChooserDialogImpl.0.0.1600.900" x="588" y="142" />
+    <location key="ProcessPopupWindow.0.0.1600.900" x="1173" y="708" />
+    <size key="IDE.errors.dialog.0.0.1600.900" width="878" height="632" />
+    <size key="ProcessPopupWindow.0.0.1600.900" width="400" height="108" />
   </component>
 </application>

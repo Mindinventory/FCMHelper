@@ -1,12 +1,14 @@
-1569311355473
-kotlin_builtins￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1569311355472
-JAVA￿stub:com.intellij.psi.impl.source.JavaFileElementType,42￿1569311355471
-KNM￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1569311355470
-CLASS￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1569311355469
-XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,1804543720￿1569311355468
-Groovy￿stub:org.jetbrains.plugins.groovy.lang.psi.stubs.elements.GrStubFileElementType,49￿1569311355467
-KJSM￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1569311355466
-Properties￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1569311355465
-DGM File Type￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1569311355464
-HTML￿stub:com.intellij.psi.xml.XmlElementType$1,1￿1569311355463
-Kotlin￿stub:org.jetbrains.kotlin.psi.stubs.elements.KtFileElementType,135￿1569311355462
+1572610281293
+GDBCommands￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1572610281292
+HTML￿stub:com.intellij.psi.xml.XmlElementType$1,1￿1572610281291
+LLDBCommands￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1572610281290
+DGM File Type￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1572610281289
+kotlin_builtins￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1572610281288
+Kotlin￿stub:org.jetbrains.kotlin.psi.stubs.elements.KtFileElementType,135￿1572610281287
+Groovy￿stub:org.jetbrains.plugins.groovy.lang.psi.stubs.elements.GrStubFileElementType,49￿1572610281286
+JAVA￿stub:com.intellij.psi.impl.source.JavaFileElementType,42￿1572610281285
+Properties￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1572610281284
+CLASS￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1572610281283
+KJSM￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1572610281282
+XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,21￿1572610281281
+KNM￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1572610281280

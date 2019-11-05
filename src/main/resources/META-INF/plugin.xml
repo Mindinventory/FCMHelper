@@ -1,10 +1,10 @@
-<idea-plugin url="https://www.jetbrains.com/idea">
+<idea-plugin url="https://plugins.jetbrains.com/author/0463a0ee-7345-44e5-84b4-a37a8d03559b">
     <id>MIFCMNotification.MIFCMNotification</id>
-    <name>MIFCMNotification</name>
-    <vendor email="harsh.mindinventory@gmail.com" url="https://github.com/Mindinventory">Harsh_Mindinventory</vendor>
+    <name>FCM Helper</name>
+    <vendor email="opensource@mindinventory.com" url="https://github.com/Mindinventory">Mindinventory</vendor>
 
     <description><![CDATA[
-    Plugin for the FCM notification configuration with Services and meta data.<br>
+    Plugin for the FCM notification configuration with Services and meta data for the kotlin.<br>
 
     If user wants to integrate FCM notification then he/she can integrate with less efforts with this plugin.<br><br>
 
@@ -20,6 +20,10 @@
     ]]></description>
 
     <change-notes><![CDATA[
+    <b>v0.3</b><br/>
+    - Given the support for the Android Studio's build number 192 series.<br/>
+    - Given the field to update the dependency version for the messaging.<br/>
+    - Updated the UI for the Panel.<br/><br/>
     <b>v0.2</b><br/>
     - Find the action with CTRL/CMD + ALT + M<br/>
     - Updated the service and instruction file in fcm directory.<br/>
@@ -29,10 +33,10 @@
     ]]>
     </change-notes>
 
-    <idea-version since-build="182.0" until-build="191.*"/>
+    <idea-version since-build="182.0" until-build="192.*"/>
     <depends>com.intellij.modules.lang</depends>
     <depends>org.jetbrains.kotlin</depends>
-    <version>0.2</version>
+    <version>0.3</version>
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->

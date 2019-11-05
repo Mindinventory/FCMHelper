@@ -19,8 +19,8 @@ plugins {
 
 apply plugin: 'kotlin'
 
-group 'MIFCMNotification'
-version '0.2'
+group 'FCM Helper'
+version '0.3'
 
 repositories {
     mavenCentral()
@@ -36,7 +36,8 @@ dependencies {
 intellij {
     version '2019.1.3'
     plugins 'kotlin'
-    alternativeIdePath '/Applications/IntelliJ IDEA CE.app'
+    alternativeIdePath '/Applications/Android Studio 2.app'
+//    alternativeIdePath '/Volumes/Project/Android Studio 4.0 Preview.app'
     intellij.updateSinceUntilBuild false
 }
 compileKotlin {

@@ -3,7 +3,7 @@ package util
 object Constants {
 
     // gradle
-    const val GRADLE_FOR_FCM = "com.google.firebase:firebase-messaging:20.0.0"
+    const val GRADLE_FOR_FCM = "com.google.firebase:firebase-messaging:"
 
     // Title messages for the studio notification
     const val NOTIFICATION_TITLE = "FCM For Notification"
@@ -28,16 +28,20 @@ object Constants {
     const val COLOR_PRIMARY_DARK = "colorPrimaryDark"
     const val FCM_INSTRUCTION = "FCM_Instruction"
     const val FCM_DIRECTORY = "fcm"
+    const val FCM_NOTIFICATION = "// FCM Notification"
+    const val FCM_PANEL = "FCM Panel"
 
     const val COLOR_PRIMARY_FROM_XML = "R.color.colorPrimary"
     const val COLOR_PRIMARY_FROM_ANDROID = "android.R.color.holo_blue_dark"
 
     // Panel
     const val MY_FIREBASE_MESSAGING_SERVICE = "MyFirebaseMessagingService"
+    const val DEPENDENCY_VERSION_VALUE = "20.0.0"
     const val FCM_SERVICE_NAME = "FCM Service Name:"
     const val PENDINGINTENT_ACTIVITY_NAME = "PendingIntent Activity Name:"
     const val CONTENT_TITLE = "Content Title:"
     const val CONTENT_TEXT = "Content Text:"
+    const val DEPENDENCY_VERSION = "Dependency Version:"
     const val NEED_INSTRUCTION = "Need Instruction:"
     const val NOTES_INSTRUCTION = "Note: If you will check Instruction section, then you will get the instruction text file for the FCM notification."
 }

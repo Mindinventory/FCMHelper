@@ -58,6 +58,7 @@ class NewScreenPresenter(
         pendingIntentText: String,
         contentTitleText: String,
         contentTextText: String,
+        dependencyVersionText: String,
         isNeedReadMeForInstructions: Boolean,
         moduleName: String
     ) {
@@ -79,7 +80,7 @@ class NewScreenPresenter(
             try {
                 gradleManager?.let {
                     if (it.initBuildGradle()) {
-                        it.addDependency(Constants.GRADLE_FOR_FCM, event)
+                        it.addDependency("${Constants.GRADLE_FOR_FCM}$dependencyVersionText", event)
                     }
                 }
                 manifestManager?.let {

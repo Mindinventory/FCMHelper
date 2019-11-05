@@ -1,47 +1,44 @@
-/Header Record For PersistentHashMapValueStoragecharsetscldrdatadnsns
+/Header Record For PersistentHashMapValueStoragecharsetsdnsnscldrdata
 jaccess
 localedata
-nashornsunecsunjce.provider	sunpkcs11zipfsjcejssemanagement.agent	resourcesrtdtjconsole	sa.jditools
+nashornsunecsunjce.provider	sunpkcs11zipfsjcejssemanagement.agent	resourcesdtrtjconsole	sa.jditools
 androidjunitjunithamcrest.integrationhamcrest.integrationhamcrest.libraryhamcrest.libraryhamcrest.corehamcrest.corekxml2kxml2
 javawriter
-javawriterjavax.inject.1.sourcesjavax.inject	jsr305espresso.core
+javawriterjavax.inject.1.sourcesjavax.inject	jsr305junit
+classesespresso.core
 classes	runner
+classescore
 classes
 monitor
 classesespresso.idling.resource
 classes$!kotlin.android.extensions.runtime$!kotlin.android.extensions.runtimekotlin.stdlib.jdk7kotlin.stdlib.jdk7kotlin.stdlibkotlin.stdlibkotlin.stdlib.commonkotlin.stdlib.commonannotationsannotations
 collection
-collectionlifecycle.commonlifecycle.commoncore.commoncore.common
+collectioncore.commoncore.commonlifecycle.commonlifecycle.common
 annotation
 annotationconstraintlayout.solvercore.ktx
 classes	appcompat
 classesfragment
-classesvectordrawable.animated
-classeslegacy.support.core.ui
-classeslegacy.support.core.utils
-classesvectordrawable
-classes	loader
-classes	viewpager
-classescoordinatorlayout
+classesappcompat.resources
 classesdrawerlayout
-classesslidingpanelayout
+classes	viewpager
+classes	loader
+classesactivity
+classesvectordrawable.animated
+classesvectordrawable
 classes
 customview
-classesswiperefreshlayout
-classesasynclayoutinflater
 classescore
-classesversionedparcelable
 classescursoradapter
-classesdocumentfile
-classeslocalbroadcastmanager
-classesprint
+classesversionedparcelable
 classeslifecycle.viewmodel
+classes
 classeslifecycle.runtime
-classesinterpolator
+classes
+savedstateinterpolator
+classes
 classeslifecycle.livedata
 classeslifecycle.livedata.core
 classescore.runtime
-classes
 classesauto.value.annotationsauto.value.annotations
 classes
 classesfirebase.common
@@ -51,4 +48,8 @@ customview
 classes
 classes
 classes
+classeslegacy.support.core.utils
+classes
+classesdocumentfile
+classeslocalbroadcastmanagerprint
 classes

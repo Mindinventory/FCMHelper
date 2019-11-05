@@ -1,9 +1,9 @@
-<idea-plugin url="https://www.jetbrains.com/idea">
+<idea-plugin url="https://plugins.jetbrains.com/author/0463a0ee-7345-44e5-84b4-a37a8d03559b">
   <id>MIFCMNotification.MIFCMNotification</id>
-  <name>MIFCMNotification</name>
-  <vendor email="harsh.mindinventory@gmail.com" url="https://www.mindinventory.com">Harsh_Mindinventory</vendor>
+  <name>FCM Helper</name>
+  <vendor email="opensource@mindinventory.com" url="https://github.com/Mindinventory">Mindinventory</vendor>
   <description>
-    Plugin for the FCM notification configuration with Services and meta data.&lt;br&gt;
+    Plugin for the FCM notification configuration with Services and meta data for the kotlin.&lt;br&gt;
 
     If user wants to integrate FCM notification then he/she can integrate with less efforts with this plugin.&lt;br&gt;&lt;br&gt;
 
@@ -17,14 +17,28 @@
     Once you will triggered the event, you can set your data and select Ok,
     Configuration, Messaging Service and meta data will add in your project.
     </description>
-  <idea-version since-build="172.0"/>
+  <change-notes>
+    &lt;b&gt;v0.3&lt;/b&gt;&lt;br/&gt;
+    - Given the support for the Android Studio's build number 192 series.&lt;br/&gt;
+    - Given the field to update the dependency version for the messaging.&lt;br/&gt;
+    - Updated the UI for the Panel.&lt;br/&gt;&lt;br/&gt;
+    &lt;b&gt;v0.2&lt;/b&gt;&lt;br/&gt;
+    - Find the action with CTRL/CMD + ALT + M&lt;br/&gt;
+    - Updated the service and instruction file in fcm directory.&lt;br/&gt;
+    - Managed the dependency for the same module.&lt;br/&gt;&lt;br/&gt;
+    &lt;b&gt;v0.1&lt;/b&gt;&lt;br/&gt;
+    - Updated the service and instruction file.&lt;br/&gt;
+    
+    </change-notes>
+  <idea-version since-build="182.0" until-build="192.*"/>
   <depends>com.intellij.modules.lang</depends>
   <depends>org.jetbrains.kotlin</depends>
-  <version>0.1</version>
+  <version>0.3</version>
   <extensions defaultExtensionNs="com.intellij"/>
   <actions>
-    <action id="CleanPlugin.ID" class="action.SearchAction" text="FCM Notification" description="Configure FCM Notification service and meta data.">
+    <action id="CleanPlugin.ID" class="action.SearchAction" text="FCM Notification" description="Configure FCM Notification service and meta data." use-shortcut-of="CleanPlugin.ID" keymap="$default">
       <add-to-group group-id="NewGroup" anchor="after" relative-to-action="NewDir"/>
+      <keyboard-shortcut keymap="$default" first-keystroke="control alt m"/>
     </action>
   </actions>
 </idea-plugin>

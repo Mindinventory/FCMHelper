@@ -55,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="FusApprovedGroupsCacheConfigurable" build="191.7479.19" cache_version="1" last_update="1569312251520">
+  <component name="FusApprovedGroupsCacheConfigurable" build="191.7479.19" cache_version="1" last_update="1570434439137">
     <whitelist>
       <FUSWhitelist>
         <groups>
@@ -71,6 +71,11 @@
           </group>
           <group id="actions.runAnything">
             <list />
+          </group>
+          <group id="build">
+            <list>
+              <version from="1" to="2147483647" />
+            </list>
           </group>
           <group id="build.ant.actions">
             <list />
@@ -165,6 +170,11 @@
               <version from="20" to="2147483647" />
             </list>
           </group>
+          <group id="file.editor">
+            <list>
+              <version from="1" to="2147483647" />
+            </list>
+          </group>
           <group id="file.types">
             <list>
               <version from="1" to="2147483647" />
@@ -216,7 +226,19 @@
             </list>
           </group>
           <group id="import.old.config">
-            <list />
+            <list>
+              <version from="1" to="2147483647" />
+            </list>
+          </group>
+          <group id="indexing">
+            <list>
+              <version from="1" to="2147483647" />
+            </list>
+          </group>
+          <group id="inlay.configuration">
+            <list>
+              <version from="1" to="2147483647" />
+            </list>
           </group>
           <group id="inspections">
             <list>
@@ -371,6 +393,11 @@
               <version from="1" to="2147483647" />
             </list>
           </group>
+          <group id="project.import">
+            <list>
+              <version from="1" to="2147483647" />
+            </list>
+          </group>
           <group id="project.structure">
             <list>
               <version from="1" to="2147483647" />
@@ -469,6 +496,11 @@
               <version from="6" to="2147483647" />
             </list>
           </group>
+          <group id="ui.editor.color.schemes">
+            <list>
+              <version from="2" to="2147483647" />
+            </list>
+          </group>
           <group id="ui.event">
             <list>
               <version from="1" to="2147483647" />
@@ -501,6 +533,11 @@
           </group>
           <group id="user.advanced.info">
             <list />
+          </group>
+          <group id="vcs">
+            <list>
+              <version from="1" to="2147483647" />
+            </list>
           </group>
           <group id="vcs.back.forward.trigger">
             <list />
@@ -561,6 +598,11 @@
           </group>
           <group id="vcs.svn.format">
             <list />
+          </group>
+          <group id="vfs">
+            <list>
+              <version from="1" to="2147483647" />
+            </list>
           </group>
         </groups>
       </FUSWhitelist>
