@@ -19,6 +19,10 @@ You just need to click the action of the "FCM Notification" from the New.
 Once you will triggered the event, you can set your data and select Ok, Configuration, Messaging Service and meta data will add in your project.
 
 ### Change Notes
+##### v0.3 
+- Given the support for the Android Studio's build number 192 series.
+- Given the field to update the dependency version for the messaging.
+- Updated the UI for the Panel.
 ##### v0.2 
 - Find the action with CTRL/CMD + ALT + M 
 - Updated the service and instruction file in fcm directory. 
