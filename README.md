@@ -1,4 +1,4 @@
-# MIFCMNotification
+# FCM Helper
 Android Studio Plugin for the FCM Notification.
 
 ![image](https://plugins.jetbrains.com/files/13049/screenshot_20305.png)
@@ -30,7 +30,7 @@ Once you will triggered the event, you can set your data and select Ok, Configur
 
 # LICENSE!
 
-MIFCMNotification is [MIT-licensed](/LICENSE).
+FCM Helper is [MIT-licensed](/LICENSE).
 
 # Let us know!
 We’d be really happy if you send us links to your projects where you use our component. Just send an email to sales@mindinventory.com And do let us know if you have any questions or suggestion regarding our work.
