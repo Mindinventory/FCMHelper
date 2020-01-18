@@ -33,10 +33,10 @@
     ]]>
     </change-notes>
 
-    <idea-version since-build="182.0" until-build="192.*"/>
+    <idea-version since-build="182.0" until-build="193.*"/>
     <depends>com.intellij.modules.lang</depends>
     <depends>org.jetbrains.kotlin</depends>
-    <version>0.3</version>
+    <version>0.3.1</version>
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->

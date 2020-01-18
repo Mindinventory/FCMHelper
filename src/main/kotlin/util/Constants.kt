@@ -22,6 +22,7 @@ object Constants {
     // Commons
     const val DEFAULT_MODULE_NAME = "app"
     const val IMPLEMENTATION = "implementation"
+    const val COMPILE = "compile"
     const val DEPENDENCIES = "dependencies"
     const val APPLICATION = "application"
     const val COLOR_PRIMARY = "colorPrimary"
@@ -36,7 +37,7 @@ object Constants {
 
     // Panel
     const val MY_FIREBASE_MESSAGING_SERVICE = "MyFirebaseMessagingService"
-    const val DEPENDENCY_VERSION_VALUE = "20.0.0"
+    const val DEPENDENCY_VERSION_VALUE = "20.1.0"
     const val FCM_SERVICE_NAME = "FCM Service Name:"
     const val PENDINGINTENT_ACTIVITY_NAME = "PendingIntent Activity Name:"
     const val CONTENT_TITLE = "Content Title:"

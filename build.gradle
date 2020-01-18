@@ -20,7 +20,7 @@ plugins {
 apply plugin: 'kotlin'
 
 group 'FCM Helper'
-version '0.3'
+version '0.3.1'
 
 repositories {
     mavenCentral()
@@ -36,7 +36,8 @@ dependencies {
 intellij {
     version '2019.1.3'
     plugins 'kotlin'
-    alternativeIdePath '/Applications/Android Studio 2.app'
+//    alternativeIdePath '/Applications/Android Studio 2.app'
+    alternativeIdePath '/Volumes/Media/Android Studio 4.0 Preview.app'
 //    alternativeIdePath '/Volumes/Project/Android Studio 4.0 Preview.app'
     intellij.updateSinceUntilBuild false
 }

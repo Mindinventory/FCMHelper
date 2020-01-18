@@ -82,21 +82,47 @@ class GradleManager(private val project: Project) {
         val documentText = buildGradle!!.text.split("\n".toRegex()).dropLastWhile { it.isEmpty() }.toTypedArray()
 
         val sb = StringBuilder()
+        var counter = 0
+        var canSearch = false
+
         for (i in documentText.indices) {
             val line = documentText[i]
-
+            if (canSearch) {
+                if (line.contains("{")) {
+                    counter += 1
+                }
+                if (line.contains("}")) {
+                    if (counter > 0) {
+                        counter -= 1
+                    } else {
+                        canSearch = false
+                        sb
+                            .append("\t$FCM_NOTIFICATION\n\t${Constants.IMPLEMENTATION} '")
+                            .append(repository)
+                            .append("'\n")
+                    }
+                }
+            }
+            if (line.contains(Constants.DEPENDENCIES)) {
+                val tempLine = line.replace(Constants.DEPENDENCIES, "")
+                if (tempLine.trim().equals("{", true)) {
+                    canSearch = true
+                } else {
+                    if (!tempLine.trim().isRequiredField()) {
+                        counter = -1
+                        canSearch = true
+                    } else {
+                        if (tempLine.trim().contains("{")
+                            && !tempLine.trim().contains("//")
+                            && (tempLine.trim().contains(Constants.IMPLEMENTATION) || tempLine.trim().contains(Constants.COMPILE))) {
+                            canSearch = true
+                        }
+                    }
+                }
+            }
             sb
                 .append(line)
                 .append("\n")
-
-            if (line.contains(Constants.DEPENDENCIES)) {
-                if (line.contains("{")) {
-                    sb
-                        .append("\t$FCM_NOTIFICATION\n\t${Constants.IMPLEMENTATION} '")
-                        .append(repository)
-                        .append("'\n")
-                }
-            }
         }
 
         writeToGradle(sb, actionEvent)
@@ -138,5 +164,9 @@ class GradleManager(private val project: Project) {
             .filter { s -> s.startsWith(":") }
             .map { s -> s.replace(":", "") }
             .toArray()
+    }
+
+    private fun String?.isRequiredField(): Boolean {
+        return this != null && isNotEmpty() && isNotBlank()
     }
 }
